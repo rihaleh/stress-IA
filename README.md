@@ -1,7 +1,7 @@
 # Desarrollos completos de un cubo fijo reposando en el plano
 ### Problema paramétrico de razonamiento espacial para la evaluación de sistemas de IA
 
-**Autor:** Miqvi — **DOI:** [reservado en Zenodo] — **Licencia:** CC-BY-4.0
+**Autor:** Miguel Quintana Villalba — **DOI:** 10.5281/zenodo.23427484 — **Licencia:** CC-BY-4.0
 
 ## Enunciado
 
