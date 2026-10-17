@@ -1,0 +1,18 @@
+{
+  "title": "Desarrollos completos de un cubo fijo reposando en el plano: problema paramétrico de razonamiento espacial para la evaluación de sistemas de IA",
+  "description": "Problema paramétrico de razonamiento espacial encarnado: enumeración y despliegue ASCII de los 384 desarrollos orientados de un cubo etiquetado fijo reposando en un plano. Incluye el algoritmo de simulación física por bisagras con oráculo de validez exacto (384/384 sobre 792 configuraciones), el catálogo paramétrico de figuras, la nomenclatura de instancias P(anclaje; asignación) y los datos en dos formatos: verificación y convención visual del autor (glifo + flecha de orientación + vértices trackeados).",
+  "license": "CC-BY-4.0",
+  "keywords": ["cube nets", "unfolding", "spatial reasoning", "mental rotation", "LLM evaluation", "benchmark", "ASCII"],
+  "creators": [
+    {
+      "name": "Miguel Quintana Villalba",
+      "orcid": "0009-0003-4641-2983"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://github.com/rihaleh/stress-IA"
+    }
+  ]
+}

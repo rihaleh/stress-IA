@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Si usas este material, cítalo como se indica a continuación."
+type: dataset
+title: "Desarrollos completos de un cubo fijo reposando en el plano: problema paramétrico de razonamiento espacial para la evaluación de sistemas de IA"
+authors:
+  - family-names: "Quintana Villalba"
+    given-names: "Miguel"
+    orcid: "https://orcid.org/0009-0003-4641-2983"
+abstract: >-
+  Problema paramétrico de razonamiento espacial encarnado: enumeración y despliegue
+  ASCII de los 384 desarrollos orientados de un cubo etiquetado fijo reposando en un
+  plano, con algoritmo de simulación física por bisagras, oráculo de validez exacto
+  (384/384 sobre 792 configuraciones) y nomenclatura paramétrica de instancias.
+keywords:
+  - cube nets
+  - unfolding
+  - spatial reasoning
+  - mental rotation
+  - LLM evaluation
+  - benchmark
+license: CC-BY-4.0
+repository-code: "https://github.com/rihaleh/stress-IA"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23427484"
+    description: "Concept DOI (reservar en Zenodo)"
+version: 1.0.0
+date-released: "2026-10-16"
