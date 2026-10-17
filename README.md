@@ -67,11 +67,13 @@ La instancia original es **P(2; 11, 2·90, 3·33, 44, 5·81, 6·80)**.
 - `desarrollos_cubo_384_orientado.txt` — idem con los símbolos rotados según su base 2D.
 - `catalogo_figuras.md` — catálogo paramétrico de figuras.
 - `CITATION.cff` — metadatos de citación.
+- `algoritmo.py` — algoritmo de resolución.
+- `desarrollos_384_estilo_autor.txt` — los desarrollos con notación del autor.
 
 ## Contexto
 
 Los componentes son clásicos (redes de cubo conocidas desde Durero, 1525; tests de rotación
-mental desde Vandenberg & Kuse, 1978; la novedad está en la integración: cubo etiquetado
+mental desde Vandenberg & Kuse, 1978); la novedad está en la integración: cubo etiquetado
 fijo, reposando, con coherencia de orientación, como test paramétrico de estrés para IA.
 
 
